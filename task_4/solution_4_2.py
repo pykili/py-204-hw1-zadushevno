@@ -1,4 +1,4 @@
-for smth in 'a'*10: #мне кажется я где-то запуталась и вообще можно было решить проще :с
+for smth in 'a'*10: 
     user_input = input()
     form = ""
     lemma = ""
